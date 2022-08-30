@@ -1,0 +1,6 @@
+numpy
+torch
+torchaudio
+librosa
+pyloudnorm
+pedalboard
